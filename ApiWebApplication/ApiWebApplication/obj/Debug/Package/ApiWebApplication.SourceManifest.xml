@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Kapilan\source\repos\ApiWebApplication\ApiWebApplication\obj\Debug\Package\PackageTmp" />
+  <setAcl path="C:\Users\Kapilan\source\repos\ApiWebApplication\ApiWebApplication\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\Kapilan\source\repos\ApiWebApplication\ApiWebApplication\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
